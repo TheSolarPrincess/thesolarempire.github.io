@@ -8,8 +8,8 @@ description: Test Description
 https://mathisgauthey.github.io/obsidian-publish-alternative-how-to-one-click-upload-your-notes-on-your-own-website/
 
 dsfgsdfsfdfsdfsdf
-
-![[../images/CelestiaCutieMark.png|CelestiaCutieMark.png]]
+авпавпавпвапвапвапавпавпвапв
+![CelestiaCutieMark.png](../images/CelestiaCutieMark.png)
 
 ffdsfdf
 gfdgdfgfdgfdsf
