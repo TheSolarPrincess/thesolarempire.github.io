@@ -43,7 +43,7 @@ params:
         lastUpdated: Jan 02, 2006 15:04 MST
 
     sidebar:
-        emoji: 🦄
+        #emoji: 🦄
         #subtitle: Knowledge is best shared.
         avatar:
             enabled: true
@@ -61,9 +61,9 @@ params:
     widgets:
         homepage:
             - type: search
-            #- type: archives
-            #  params:
-            #      limit: 5
+            - type: archives
+              params:
+                  limit: 5
             #- type: categories
             #  params:
             #      limit: 10
@@ -152,7 +152,7 @@ markup:
     goldmark:
         renderer:
             ## Set to true if you have HTML content inside Markdown
-            unsafe: false
+            unsafe: true
     tableOfContents:
         endLevel: 4
         ordered: true
