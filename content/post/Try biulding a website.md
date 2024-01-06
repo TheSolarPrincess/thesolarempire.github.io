@@ -1,7 +1,10 @@
 ---
 share: true
-title: "432442"
+title: Test title
 date: 2024-01-06
+description: Test Description
+image: CelestiaCutieMark.png
+comments: true
 ---
 
 https://mathisgauthey.github.io/obsidian-publish-alternative-how-to-one-click-upload-your-notes-on-your-own-website/
