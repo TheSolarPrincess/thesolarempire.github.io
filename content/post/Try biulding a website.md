@@ -3,7 +3,8 @@ share: true
 title: Test title
 date: 2024-01-06
 description: Test Description
-image: CelestiaCutieMark.png
+image:
+  - - CelestiaCutieMark.png
 comments: true
 ---
 
