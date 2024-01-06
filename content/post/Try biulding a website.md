@@ -7,6 +7,6 @@ date: 2024-01-06
 https://mathisgauthey.github.io/obsidian-publish-alternative-how-to-one-click-upload-your-notes-on-your-own-website/
 
 
-![CelestiaCutieMark.png](images/CelestiaCutieMark.png)
+![CelestiaCutieMark.png](/images/CelestiaCutieMark.png)
 
 ffdsfdf
