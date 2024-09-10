@@ -11,6 +11,23 @@
         }
     </style>
 
-    <a href="/" class="corner-image">
+<script>
+    function setConditionalLink() {
+      //event.preventDefault();
+      var author = document.querySelector('meta[name="author"]').getAttribute("content");
+      var link = document.getElementById("conditional-link");
+
+      if (author == "Солнечная Принцесса") {
+        link.href = "/"; // Link to the first page
+      } else {
+        link.href = "en.html"; // Link to the second page
+
+      }
+    }
+
+    //window.location.href = link.href;
+  </script>
+
+    <a id="conditional-link" onclick="setConditionalLink(event)" href="#" href="/" class="corner-image">
         <img src="https://i.imgur.com/GTneZjj.png" alt="Main page">
     </a>
