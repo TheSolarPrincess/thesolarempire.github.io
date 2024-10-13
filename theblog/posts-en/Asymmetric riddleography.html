@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <!-- Page information -->
+        <meta charset="UTF-8" />
+        <meta name="node_id" content="About ObsidianHtml">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="shortcut icon" href="/favicon.ico" />
+        <!-- Set title -->
+        <title>Obsidian-Html/Notes</title>
+
+        <script>
+            var DO_NOT_OVERWRITE_LINK_BEHAVIOR = true;
+            const PAGE_DEPTH = 2;
+        </script>
+
+        <!-- Includes -->
+        <script src="/obs.html/static/obsidian_core.js"></script>
+<script src="/obs.html/static/encoding.js"></script>
+<link rel="stylesheet" href="/obs.html/static/master.css" />
+<script type="module">
+    import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+    mermaid.initialize({
+            'securityLevel': 'loose',
+            'theme': 'dark',
+            'themeVariables': {
+                    'darkMode': true,
+            }
+    });
+</script>
+<script>
+  MathJax = {
+    loader: {
+      load: [
+        '[tex]/action',
+        'output/chtml',
+        '[tex]/centernot'
+      ]
+    },
+    tex: {
+      inlineMath: [ ["\\(","\\)"] ],
+      displayMath: [ ["\\[","\\]"] ],
+      processEscapes: true,
+      processEnvironments: true,
+      packages: {'[+]': ['centernot']}
+    }
+  };
+</script>
+<script type="text/javascript" id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+<script src="/obs.html/static/flexsearch.bundle.js"></script>
+<script src="/obs.html/static/pako.js"></script>
+<script src="/obs.html/static/search.js"></script>
+
+
+
+
+    </head>
+
+    <body>
+        <div class="container">
+            <div class="content"><h1 id="asymmetric-riddleography">Asymmetric riddleography</h1>
+<p><a href="/TheBlog/Posts-ru/%D0%90%D1%81%D0%B8%D0%BC%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%87%D0%BD%D0%B0%D1%8F%20%D0%B7%D0%B0%D0%B3%D0%B0%D0%B4%D0%BA%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F.html">Russian version</a>   </p>
+<p>As a recovering expert in communication protocols, I occasionally try to write what I know.   </p>
+<p>I was thinking about one-way functions and storing passwords in hashes, and I got that idea – that you also can use it for primitive “ciphers” like “the tiger is out of the cage”. You can adopt this plot twist into a story or a game if you want.   </p>
+<p>An important NPC asks the players a riddle. The riddle is difficult, contrived, confusing, and overall not very well-designed. The assumption is that the players can’t possibly solve it, but if you tell them the answer, they would understand that it’s the correct one. The riddle would probably contain a lot of extremely specific conditions that don’t send you down any specific trains of thought.   </p>
+<p>Later, having forgotten about the riddle and not thinking it to be very important, the players meet that NPC again, and they suspect it can be an impostor pretending to be them. The problem is that the impostor can read their thoughts!   </p>
+<p>Whatever question you think of of the form “what only the real NPC would know”, he would know what answer can satisfy you. If you try to provoke him to do something, he would know what behavior you expect. Whatever method you can think of to tell the real deal from an impostor, he will know exactly what to do to make you decide that he is real. He knows everything you know, can anticipate and avoid any of your traps, he is immune to deception and misdirection. It seems like this is unsolvable – the impostor can fully imitate the original (as far as you know them); whatever idea you have in mind, he can behave exactly like you expect the original to behave.   </p>
+<p>But there is a creative solution for a resourceful protagonist! Just ask him for the answer to the riddle. The original can simply tell it to you, you can verify that the answer is correct, and you would know it’s the original. But the impostor doesn’t know the answer! He can probe your thoughts for the riddle, but he can’t learn the answer, because you don’t know it either. He knows what you expect to hear, but he can never know the exact words – it’s a one-way function, you can check if the answer is correct, but you can’t find the answer. The impostor won’t be able to answer the riddle.   </p>
+<p>It would be cool to add ZKP to the mix, so that you can repeat the trick any number of times – otherwise it only works once; if you learn the answer, every further impostor would know it as well. But you can make your players to carry code books with riddles for each other, that would be amazing.   </p>
+<h1 id="more-from-the-solar-empire">More from The Solar Empire</h1>
+<p><a href="/The%20Solar%20Empire.html">Other posts</a> <br />
+<a href="https://www.admonymous.co/thesolarprincess" class="external-link">Leave an anonymous comment</a>  <br />
+<a href="https://t.me/solarbroadcast" class="external-link">Subscribe</a>   </p></div>
+<div class="note-footer">
+<div class="tags">
+
+</div>
+
+</div>
+
+        </div>
+        
+             
+        
+   
+    </body>
+</html>

@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <!-- Page information -->
+        <meta charset="UTF-8" />
+        <meta name="node_id" content="About ObsidianHtml">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="shortcut icon" href="/favicon.ico" />
+        <!-- Set title -->
+        <title>Obsidian-Html/Notes</title>
+
+        <script>
+            var DO_NOT_OVERWRITE_LINK_BEHAVIOR = true;
+            const PAGE_DEPTH = 2;
+        </script>
+
+        <!-- Includes -->
+        <script src="/obs.html/static/obsidian_core.js"></script>
+<script src="/obs.html/static/encoding.js"></script>
+<link rel="stylesheet" href="/obs.html/static/master.css" />
+<script type="module">
+    import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+    mermaid.initialize({
+            'securityLevel': 'loose',
+            'theme': 'dark',
+            'themeVariables': {
+                    'darkMode': true,
+            }
+    });
+</script>
+<script>
+  MathJax = {
+    loader: {
+      load: [
+        '[tex]/action',
+        'output/chtml',
+        '[tex]/centernot'
+      ]
+    },
+    tex: {
+      inlineMath: [ ["\\(","\\)"] ],
+      displayMath: [ ["\\[","\\]"] ],
+      processEscapes: true,
+      processEnvironments: true,
+      packages: {'[+]': ['centernot']}
+    }
+  };
+</script>
+<script type="text/javascript" id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+<script src="/obs.html/static/flexsearch.bundle.js"></script>
+<script src="/obs.html/static/pako.js"></script>
+<script src="/obs.html/static/search.js"></script>
+
+
+
+
+    </head>
+
+    <body>
+        <div class="container">
+            <div class="content"><h1 id="h__1">Дилемма дилеммы заключенного</h1>
+<p><code>[!!info:Средняя серьезность]</code> <code>[!!info:Математика]</code> <code>[!!info:Короткий]</code>    </p>
+<p>Небольшая дилемма по поводу дилеммы заключенного.    </p>
+<p>В целом в итеративной дилемме заключенного хорошей стратегией считается tit-for-tat – ты начинаешь с С, потом повторяешь действия оппонента. Два tit-for-tat игрока будут выбирать С друг против друга, достигая глобально оптимального результата, одновременно наказывая всех, кто пытается их обмануть и эксплуатировать. В ранних соревнованиях в дилемме заключенного такая стратегия выигрывала значительно лучше, чем любые сложные алгоритмы, пытающиеся анализировать поведение оппонента.   </p>
+<p>Но здесь есть некоторый парадокс схожий с парадоксом неожиданной казни, который <a href="/TheBlog/Posts-en/%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81%D1%8B%20%D1%8D%D1%82%D0%BE%20%D0%BE%D1%87%D0%B5%D0%BD%D1%8C%20%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%BE%21.html">я ранее рассмотрела шуточно</a>. А что если фор риал?   </p>
+<p>Допустим у нас 100 раундов дилеммы заключенного, и два игрока играют в tit-for-tat. По идее, они оба выбирают С всю дорогу, и оба счастливы. Никому из них не выгодно отходить от стратегии – потому что если они решат выбрать D, их накажут. Так что это равновесие Нэша.   </p>
+<p><img alt="img|350" src="https://i.imgur.com/te9w5zV.jpg" />   </p>
+<p>Если я выберу D на последнем раунде, никто меня не накажет! Игра сразу же закончится, и я просто получу больше очков на последнем раунде, ничем при этом не жертвуя. С моей точки зрения это Парето-улучшение. Мой оппонент, следуя такой же логике, тоже выбирает D на последнем раунде.   </p>
+<p>Но теперь, если я знаю, что мой оппонент будет играть D в последнем раунде вне зависимости от моих действий, то в целом играть C в предпоследнем раунде мне смысла нет – никто не накажет меня, если я сыграю D. Это тоже выглядит как Парето-улучшение.   </p>
+<p>Ну и так далее по индукции, оба игрока всю дорогу нажимают D, чтобы строго улучшить свою позицию, и оба оказываются в худшей позиции. Что пошло не так?   </p>
+<p>…   </p>
+<p>…   </p>
+<p>…   </p>
+<p>…   </p>
+<p>Ну в целом, “мы оба делаем Парето-улучшения для себя, и в итоге оба оказываемся в заднице” это и есть one-shot дилемма заключенного, с которой и начался разговор. Стандартная дилемма заключенного между эгоистичными агентами, которые просто слишком тупые, чтобы понять, что D для них строго лучше, тоже может окончиться на С-С. Но если дать им секунду подумать – оба проигрывают.   </p>
+<p>Здесь разница между С и D более тонкая, не видная сразу, поэтому “тупой” tit-for-tat агент выбирает мета-С. Но если дать им подумать минуту и провести всю логическую цепочку, обозначенную выше, то оба игрока выберут мета-D и окажутся в заднице.    </p>
+<p>Вероятно здесь должна быть полезна стратегия мета-tit-for-tat для случая нескольких соревнований по итерированной дилемме заключенного?..   </p>
+<p>Как нас учит постмодернизм, приставок “мета” к чему угодно можно приставить сколько угодно. На каком уровне играешь ты? Я – ровно на один уровень выше :3   </p>
+<p>Это не бесконечная рекурсия. Вся эта цепочка мета, и мета-цепочка мета, и тот вселяющий ужас момент, когда порядковые числа переходят от “мета” в “омега” – все схлопывается в одну очень интересную концепцию. В какую?   </p>
+<h1 id="more-from-the-solar-empire">More from The Solar Empire</h1>
+<p><a href="/The%20Solar%20Empire.html">Other posts</a> <br />
+<a href="https://www.admonymous.co/thesolarprincess" class="external-link">Leave an anonymous comment</a>  <br />
+<a href="https://t.me/solarbroadcast" class="external-link">Subscribe</a>   </p></div>
+<div class="note-footer">
+<div class="tags">
+
+</div>
+
+</div>
+
+        </div>
+        
+             
+        
+   
+    </body>
+</html>
