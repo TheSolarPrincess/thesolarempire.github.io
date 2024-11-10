@@ -1,11 +1,20 @@
 {
   "vaultName": "TheSolarGarden",
-  "lastExport": 1730739358855,
+  "lastExport": 1731203716820,
   "pluginVersion": "1.8.01",
-  "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon",
+  "validBodyClasses": "publish css-settings-manager show-inline-title show-ribbon theme-light",
   "useCustomHeadContent": true,
   "useCustomFavicon": false,
   "files": [
+    "Attachment/Pasted image 20241108214737.png",
+    "Attachment/Pasted image 20241109175806.png",
+    "Attachment/Pasted image 20241109175839.png",
+    "Attachment/Pasted image 20241109175906.png",
+    "Attachment/Pasted image 20241109175942.png",
+    "Attachment/Pasted image 20241109180050.png",
+    "Attachment/Pasted image 20241109203855.png",
+    "Attachment/Pasted image 20241109222633.png",
+    "Attachment/Pasted image 20241109222819.png",
     "Attachments/logo.png",
     "Attachments/Logo-en.png",
     "Attachments/Logo-ru.png",
@@ -85,6 +94,7 @@
     "TheBlog/Posts-ru/Дилемма дилеммы заключенного.md",
     "TheBlog/Posts-ru/Законы и инструменты.md",
     "TheBlog/Posts-ru/Искусственная безопасность.md",
+    "TheBlog/Posts-ru/Как быть счастливым – руководство Мэри.md",
     "TheBlog/Posts-ru/Карма и реинкарнация.md",
     "TheBlog/Posts-ru/Когда надо идти куда не надо идти.md",
     "TheBlog/Posts-ru/Коп в голове.md",
@@ -154,777 +164,837 @@
   ],
   "fileInfo": {
     "Attachments/logo.png": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 61100,
       "exportedPath": "Attachments/logo.png",
       "dependencies": []
     },
     "Attachments/Logo-en.png": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 89042,
       "exportedPath": "Attachments/Logo-en.png",
       "dependencies": []
     },
     "Attachments/Logo-ru.png": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 83491,
       "exportedPath": "Attachments/Logo-ru.png",
       "dependencies": []
     },
     "Attachments/mark.png": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 26140,
       "exportedPath": "Attachments/mark.png",
       "dependencies": []
     },
     "Attachments/OBEY.png": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 46499,
       "exportedPath": "Attachments/OBEY.png",
       "dependencies": []
     },
     "Attachments/Pasted image 20240910204301.png": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 878086,
       "exportedPath": "Attachments/Pasted image 20240910204301.png",
       "dependencies": []
     },
     "Attachments/Pasted image 20240910204627.png": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 501330,
       "exportedPath": "Attachments/Pasted image 20240910204627.png",
       "dependencies": []
     },
     "Attachments/Pasted image 20241016163706.png": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 236653,
       "exportedPath": "Attachments/Pasted image 20241016163706.png",
       "dependencies": []
     },
     "Attachments/Pasted image 20241016163800.png": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 302793,
       "exportedPath": "Attachments/Pasted image 20241016163800.png",
       "dependencies": []
     },
     "Attachments/Pasted image 20241016173038.png": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 876549,
       "exportedPath": "Attachments/Pasted image 20241016173038.png",
       "dependencies": []
     },
     "Attachments/Pasted image 20241016173600.png": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 1259880,
       "exportedPath": "Attachments/Pasted image 20241016173600.png",
       "dependencies": []
     },
     "Attachments/Pasted image 20241016173708.png": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 1257032,
       "exportedPath": "Attachments/Pasted image 20241016173708.png",
       "dependencies": []
     },
     "TheBlog/Posts-en/1.py": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 818,
       "exportedPath": "TheBlog/Posts-en/1.py",
       "dependencies": []
     },
     "TheBlog/Posts-en/2.py": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 851,
       "exportedPath": "TheBlog/Posts-en/2.py",
       "dependencies": []
     },
     "TheBlog/Posts-en/Analyzing the political compass with algebraic topology.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 5629,
       "exportedPath": "TheBlog/Posts-en/Analyzing the political compass with algebraic topology.html",
       "dependencies": []
     },
     "TheBlog/Posts-en/Asymmetric riddleography.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 2753,
       "exportedPath": "TheBlog/Posts-en/Asymmetric riddleography.html",
       "dependencies": []
     },
     "TheBlog/Posts-en/Doomsday argument is hopeful.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 3774,
       "exportedPath": "TheBlog/Posts-en/Doomsday argument is hopeful.html",
       "dependencies": []
     },
     "TheBlog/Posts-en/God of Tails.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 16132,
       "exportedPath": "TheBlog/Posts-en/God of Tails.html",
       "dependencies": []
     },
     "TheBlog/Posts-en/Hell inside my own head and emotional torture.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 2852,
       "exportedPath": "TheBlog/Posts-en/Hell inside my own head and emotional torture.html",
       "dependencies": []
     },
     "TheBlog/Posts-en/Identity disorders – not just transgender.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 32285,
       "exportedPath": "TheBlog/Posts-en/Identity disorders – not just transgender.html",
       "dependencies": []
     },
     "TheBlog/Posts-en/Narrative design in Disco Elysium.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 8884,
       "exportedPath": "TheBlog/Posts-en/Narrative design in Disco Elysium.html",
       "dependencies": []
     },
     "TheBlog/Posts-en/Papers please and the Tomb of the Unknown Soldier.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 9655,
       "exportedPath": "TheBlog/Posts-en/Papers please and the Tomb of the Unknown Soldier.html",
       "dependencies": []
     },
     "TheBlog/Posts-en/Terraforming mars is a single-player game.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 1377,
       "exportedPath": "TheBlog/Posts-en/Terraforming mars is a single-player game.html",
       "dependencies": []
     },
     "TheBlog/Posts-en/The Amazing Digital Circus and anti-nihilism.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 5013,
       "exportedPath": "TheBlog/Posts-en/The Amazing Digital Circus and anti-nihilism.html",
       "dependencies": []
     },
     "TheBlog/Posts-en/The mechanics of Undertale dialogues.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 4637,
       "exportedPath": "TheBlog/Posts-en/The mechanics of Undertale dialogues.html",
       "dependencies": []
     },
     "TheBlog/Posts-en/You misunderstand wireheading.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 4663,
       "exportedPath": "TheBlog/Posts-en/You misunderstand wireheading.html",
       "dependencies": []
     },
     "TheBlog/Posts-en/Баллада Остапа Бендера – эмо-поэзия.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 12973,
       "exportedPath": "TheBlog/Posts-en/Баллада Остапа Бендера – эмо-поэзия.html",
       "dependencies": []
     },
     "TheBlog/Posts-en/Витамин D делает тебя бессмертным.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 2049,
       "exportedPath": "TheBlog/Posts-en/Витамин D делает тебя бессмертным.html",
       "dependencies": []
     },
     "TheBlog/Posts-en/Вот платоновская девушка!.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 4668,
       "exportedPath": "TheBlog/Posts-en/Вот платоновская девушка!.html",
       "dependencies": []
     },
     "TheBlog/Posts-en/Гей-фашизм.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 1680,
       "exportedPath": "TheBlog/Posts-en/Гей-фашизм.html",
       "dependencies": []
     },
     "TheBlog/Posts-en/Гомосексуальная идентичность.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 5764,
       "exportedPath": "TheBlog/Posts-en/Гомосексуальная идентичность.html",
       "dependencies": []
     },
     "TheBlog/Posts-en/Дилемма дилеммы заключенного.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 5309,
       "exportedPath": "TheBlog/Posts-en/Дилемма дилеммы заключенного.html",
       "dependencies": []
     },
     "TheBlog/Posts-en/Законы и инструменты.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 9506,
       "exportedPath": "TheBlog/Posts-en/Законы и инструменты.html",
       "dependencies": []
     },
     "TheBlog/Posts-en/Искусственная безопасность.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 2591,
       "exportedPath": "TheBlog/Posts-en/Искусственная безопасность.html",
       "dependencies": []
     },
     "TheBlog/Posts-en/Карма и реинкарнация.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 78182,
       "exportedPath": "TheBlog/Posts-en/Карма и реинкарнация.html",
       "dependencies": []
     },
     "TheBlog/Posts-en/Когда надо идти куда не надо идти.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 7043,
       "exportedPath": "TheBlog/Posts-en/Когда надо идти куда не надо идти.html",
       "dependencies": []
     },
     "TheBlog/Posts-en/Коп в голове.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 8601,
       "exportedPath": "TheBlog/Posts-en/Коп в голове.html",
       "dependencies": []
     },
     "TheBlog/Posts-en/Корреляция равна причинно-следственной связи.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 4565,
       "exportedPath": "TheBlog/Posts-en/Корреляция равна причинно-следственной связи.html",
       "dependencies": []
     },
     "TheBlog/Posts-en/Культурный шок.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 23959,
       "exportedPath": "TheBlog/Posts-en/Культурный шок.html",
       "dependencies": []
     },
     "TheBlog/Posts-en/Менее бесящий жанр RPG.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 34612,
       "exportedPath": "TheBlog/Posts-en/Менее бесящий жанр RPG.html",
       "dependencies": []
     },
     "TheBlog/Posts-en/Наивный байес и категоризация.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 16580,
       "exportedPath": "TheBlog/Posts-en/Наивный байес и категоризация.html",
       "dependencies": []
     },
     "TheBlog/Posts-en/Парадоксы это очень просто!.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 15855,
       "exportedPath": "TheBlog/Posts-en/Парадоксы это очень просто!.html",
       "dependencies": []
     },
     "TheBlog/Posts-en/Плохая астрономия и слова, слова.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 3873,
       "exportedPath": "TheBlog/Posts-en/Плохая астрономия и слова, слова.html",
       "dependencies": []
     },
     "TheBlog/Posts-en/Почему лудомания не работает на добро.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 4527,
       "exportedPath": "TheBlog/Posts-en/Почему лудомания не работает на добро.html",
       "dependencies": []
     },
     "TheBlog/Posts-en/Принуждение анкап vs анком.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 23039,
       "exportedPath": "TheBlog/Posts-en/Принуждение анкап vs анком.html",
       "dependencies": []
     },
     "TheBlog/Posts-en/Профессия будущего – гейм-дизайн.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 7489,
       "exportedPath": "TheBlog/Posts-en/Профессия будущего – гейм-дизайн.html",
       "dependencies": []
     },
     "TheBlog/Posts-en/Симуляционизм и драматизм.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 2758,
       "exportedPath": "TheBlog/Posts-en/Симуляционизм и драматизм.html",
       "dependencies": []
     },
     "TheBlog/Posts-en/Сны и генеративный ИИ.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 8053,
       "exportedPath": "TheBlog/Posts-en/Сны и генеративный ИИ.html",
       "dependencies": []
     },
     "TheBlog/Posts-en/Социализм - база.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 26611,
       "exportedPath": "TheBlog/Posts-en/Социализм - база.html",
       "dependencies": []
     },
     "TheBlog/Posts-en/Существуют ли гетеросексуальные люди.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 11480,
       "exportedPath": "TheBlog/Posts-en/Существуют ли гетеросексуальные люди.html",
       "dependencies": []
     },
     "TheBlog/Posts-en/Таинственная культура спидранов.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 4054,
       "exportedPath": "TheBlog/Posts-en/Таинственная культура спидранов.html",
       "dependencies": []
     },
     "TheBlog/Posts-en/Теорема Геделя о неполноте базирована.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 7692,
       "exportedPath": "TheBlog/Posts-en/Теорема Геделя о неполноте базирована.html",
       "dependencies": []
     },
     "TheBlog/Posts-en/Техническая аномалия Plants vs Zombies.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 4614,
       "exportedPath": "TheBlog/Posts-en/Техническая аномалия Plants vs Zombies.html",
       "dependencies": []
     },
     "TheBlog/Posts-en/Транс-аллегория Cyberpunk 2077.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 3404,
       "exportedPath": "TheBlog/Posts-en/Транс-аллегория Cyberpunk 2077.html",
       "dependencies": []
     },
     "TheBlog/Posts-en/Факты и логика переоценены.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 20692,
       "exportedPath": "TheBlog/Posts-en/Факты и логика переоценены.html",
       "dependencies": []
     },
     "TheBlog/Posts-en/Хорошие новости – ты не рыба.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 2340,
       "exportedPath": "TheBlog/Posts-en/Хорошие новости – ты не рыба.html",
       "dependencies": []
     },
     "TheBlog/Posts-en/Эконометрики Substack.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 8242,
       "exportedPath": "TheBlog/Posts-en/Эконометрики Substack.html",
       "dependencies": []
     },
     "TheBlog/Posts-en/Экстремальный антинатализм.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 24369,
       "exportedPath": "TheBlog/Posts-en/Экстремальный антинатализм.html",
       "dependencies": []
     },
     "TheBlog/Posts-ru/Doomsday argument внушает надежду.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 5268,
       "exportedPath": "TheBlog/Posts-ru/Doomsday argument внушает надежду.html",
       "dependencies": []
     },
     "TheBlog/Posts-ru/Papers please и могила неизвестного солдата.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 27212,
       "exportedPath": "TheBlog/Posts-ru/Papers please и могила неизвестного солдата.html",
       "dependencies": []
     },
     "TheBlog/Posts-ru/Terraforming mars это сингл-плеерная игра.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 2265,
       "exportedPath": "TheBlog/Posts-ru/Terraforming mars это сингл-плеерная игра.html",
       "dependencies": []
     },
     "TheBlog/Posts-ru/What is a woman Мэтта Волша.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 43730,
       "exportedPath": "TheBlog/Posts-ru/What is a woman Мэтта Волша.html",
       "dependencies": []
     },
     "TheBlog/Posts-ru/Ад в голове и эмоциональная пытка.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 5496,
       "exportedPath": "TheBlog/Posts-ru/Ад в голове и эмоциональная пытка.html",
       "dependencies": []
     },
     "TheBlog/Posts-ru/Анализ политического компаса с точки зрения алгебраической топологии.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 11230,
       "exportedPath": "TheBlog/Posts-ru/Анализ политического компаса с точки зрения алгебраической топологии.html",
       "dependencies": []
     },
     "TheBlog/Posts-ru/Анти-нигилизм The Amazing Digital Circus.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 9045,
       "exportedPath": "TheBlog/Posts-ru/Анти-нигилизм The Amazing Digital Circus.html",
       "dependencies": []
     },
     "TheBlog/Posts-ru/Антиаутотеличная личность.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 60813,
       "exportedPath": "TheBlog/Posts-ru/Антиаутотеличная личность.html",
       "dependencies": []
     },
     "TheBlog/Posts-ru/Асимметричная загадкография.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 5058,
       "exportedPath": "TheBlog/Posts-ru/Асимметричная загадкография.html",
       "dependencies": []
     },
     "TheBlog/Posts-ru/Баллада Остапа Бендера – эмо-поэзия.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 13047,
       "exportedPath": "TheBlog/Posts-ru/Баллада Остапа Бендера – эмо-поэзия.html",
       "dependencies": []
     },
     "TheBlog/Posts-ru/Бог Решки.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 26492,
       "exportedPath": "TheBlog/Posts-ru/Бог Решки.html",
       "dependencies": []
     },
     "TheBlog/Posts-ru/Вам не обязательно узнавать известного автора.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 6046,
       "exportedPath": "TheBlog/Posts-ru/Вам не обязательно узнавать известного автора.html",
       "dependencies": []
     },
     "TheBlog/Posts-ru/Витамин D делает тебя бессмертным.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 2123,
       "exportedPath": "TheBlog/Posts-ru/Витамин D делает тебя бессмертным.html",
       "dependencies": []
     },
     "TheBlog/Posts-ru/Вот платоновская девушка!.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 4742,
       "exportedPath": "TheBlog/Posts-ru/Вот платоновская девушка!.html",
       "dependencies": []
     },
     "TheBlog/Posts-ru/Вы неправильно понимаете, что такое wireheading.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 9209,
       "exportedPath": "TheBlog/Posts-ru/Вы неправильно понимаете, что такое wireheading.html",
       "dependencies": []
     },
     "TheBlog/Posts-ru/Гей-фашизм.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 1754,
       "exportedPath": "TheBlog/Posts-ru/Гей-фашизм.html",
       "dependencies": []
     },
     "TheBlog/Posts-ru/Гомосексуальная идентичность.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 5838,
       "exportedPath": "TheBlog/Posts-ru/Гомосексуальная идентичность.html",
       "dependencies": []
     },
     "TheBlog/Posts-ru/Диалоговые механики Undertale.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 8387,
       "exportedPath": "TheBlog/Posts-ru/Диалоговые механики Undertale.html",
       "dependencies": []
     },
     "TheBlog/Posts-ru/Дилемма дилеммы заключенного.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 5383,
       "exportedPath": "TheBlog/Posts-ru/Дилемма дилеммы заключенного.html",
       "dependencies": []
     },
     "TheBlog/Posts-ru/Законы и инструменты.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 9580,
       "exportedPath": "TheBlog/Posts-ru/Законы и инструменты.html",
       "dependencies": []
     },
     "TheBlog/Posts-ru/Искусственная безопасность.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 2665,
       "exportedPath": "TheBlog/Posts-ru/Искусственная безопасность.html",
       "dependencies": []
     },
     "TheBlog/Posts-ru/Карма и реинкарнация.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 78256,
       "exportedPath": "TheBlog/Posts-ru/Карма и реинкарнация.html",
       "dependencies": []
     },
     "TheBlog/Posts-ru/Когда надо идти куда не надо идти.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 7117,
       "exportedPath": "TheBlog/Posts-ru/Когда надо идти куда не надо идти.html",
       "dependencies": []
     },
     "TheBlog/Posts-ru/Коп в голове.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 8675,
       "exportedPath": "TheBlog/Posts-ru/Коп в голове.html",
       "dependencies": []
     },
     "TheBlog/Posts-ru/Корреляция равна причинно-следственной связи.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 4639,
       "exportedPath": "TheBlog/Posts-ru/Корреляция равна причинно-следственной связи.html",
       "dependencies": []
     },
     "TheBlog/Posts-ru/Культурный шок.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 24215,
       "exportedPath": "TheBlog/Posts-ru/Культурный шок.html",
       "dependencies": []
     },
     "TheBlog/Posts-ru/Менее бесящий жанр RPG.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 34686,
       "exportedPath": "TheBlog/Posts-ru/Менее бесящий жанр RPG.html",
       "dependencies": []
     },
     "TheBlog/Posts-ru/Наивный байес и категоризация.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 16654,
       "exportedPath": "TheBlog/Posts-ru/Наивный байес и категоризация.html",
       "dependencies": []
     },
     "TheBlog/Posts-ru/Нарративный дизайн Disco Elysium.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 16921,
       "exportedPath": "TheBlog/Posts-ru/Нарративный дизайн Disco Elysium.html",
       "dependencies": []
     },
     "TheBlog/Posts-ru/Открытый мир Skyrim vs Хороший открытый мир.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 29157,
       "exportedPath": "TheBlog/Posts-ru/Открытый мир Skyrim vs Хороший открытый мир.html",
       "dependencies": []
     },
     "TheBlog/Posts-ru/Парадоксы это очень просто!.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 15929,
       "exportedPath": "TheBlog/Posts-ru/Парадоксы это очень просто!.html",
       "dependencies": []
     },
     "TheBlog/Posts-ru/Первый сезон Hazbin Hotel меня разочаровал.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 16381,
       "exportedPath": "TheBlog/Posts-ru/Первый сезон Hazbin Hotel меня разочаровал.html",
       "dependencies": []
     },
     "TheBlog/Posts-ru/Плохая астрономия и слова, слова.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 3947,
       "exportedPath": "TheBlog/Posts-ru/Плохая астрономия и слова, слова.html",
       "dependencies": []
     },
     "TheBlog/Posts-ru/Почему лудомания не работает на добро.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 4601,
       "exportedPath": "TheBlog/Posts-ru/Почему лудомания не работает на добро.html",
       "dependencies": []
     },
     "TheBlog/Posts-ru/Принуждение анкап vs анком.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 23113,
       "exportedPath": "TheBlog/Posts-ru/Принуждение анкап vs анком.html",
       "dependencies": []
     },
     "TheBlog/Posts-ru/Профессия будущего – гейм-дизайн.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 7563,
       "exportedPath": "TheBlog/Posts-ru/Профессия будущего – гейм-дизайн.html",
       "dependencies": []
     },
     "TheBlog/Posts-ru/Расстройства идентичности – место, где я считаю себя умнее психиатрического мейнстрима.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 70255,
       "exportedPath": "TheBlog/Posts-ru/Расстройства идентичности – место, где я считаю себя умнее психиатрического мейнстрима.html",
       "dependencies": []
     },
     "TheBlog/Posts-ru/Симуляционизм и драматизм.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 2832,
       "exportedPath": "TheBlog/Posts-ru/Симуляционизм и драматизм.html",
       "dependencies": []
     },
     "TheBlog/Posts-ru/Сны и генеративный ИИ.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 8127,
       "exportedPath": "TheBlog/Posts-ru/Сны и генеративный ИИ.html",
       "dependencies": []
     },
     "TheBlog/Posts-ru/Социализм - база.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 26685,
       "exportedPath": "TheBlog/Posts-ru/Социализм - база.html",
       "dependencies": []
     },
     "TheBlog/Posts-ru/Существуют ли гетеросексуальные люди.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 11554,
       "exportedPath": "TheBlog/Posts-ru/Существуют ли гетеросексуальные люди.html",
       "dependencies": []
     },
     "TheBlog/Posts-ru/Таинственная культура спидранов.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 4128,
       "exportedPath": "TheBlog/Posts-ru/Таинственная культура спидранов.html",
       "dependencies": []
     },
     "TheBlog/Posts-ru/Теорема Геделя о неполноте базирована.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 7766,
       "exportedPath": "TheBlog/Posts-ru/Теорема Геделя о неполноте базирована.html",
       "dependencies": []
     },
     "TheBlog/Posts-ru/Техническая аномалия Plants vs Zombies.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 4688,
       "exportedPath": "TheBlog/Posts-ru/Техническая аномалия Plants vs Zombies.html",
       "dependencies": []
     },
     "TheBlog/Posts-ru/Транс-аллегория Cyberpunk 2077.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 3478,
       "exportedPath": "TheBlog/Posts-ru/Транс-аллегория Cyberpunk 2077.html",
       "dependencies": []
     },
     "TheBlog/Posts-ru/Умирающий интернет и ИИ.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 8109,
       "exportedPath": "TheBlog/Posts-ru/Умирающий интернет и ИИ.html",
       "dependencies": []
     },
     "TheBlog/Posts-ru/Факты и логика переоценены.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 20766,
       "exportedPath": "TheBlog/Posts-ru/Факты и логика переоценены.html",
       "dependencies": []
     },
     "TheBlog/Posts-ru/Хорошие новости – ты не рыба.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 2414,
       "exportedPath": "TheBlog/Posts-ru/Хорошие новости – ты не рыба.html",
       "dependencies": []
     },
     "TheBlog/Posts-ru/Чисто гипотетически.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 11397,
       "exportedPath": "TheBlog/Posts-ru/Чисто гипотетически.html",
       "dependencies": []
     },
     "TheBlog/Posts-ru/Эконометрики Substack.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 8316,
       "exportedPath": "TheBlog/Posts-ru/Эконометрики Substack.html",
       "dependencies": []
     },
     "TheBlog/Posts-ru/Экстремальный антинатализм.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 24443,
       "exportedPath": "TheBlog/Posts-ru/Экстремальный антинатализм.html",
       "dependencies": []
     },
     "TheBlog/TestPage.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 255,
       "exportedPath": "TheBlog/TestPage.html",
       "dependencies": []
     },
     "Transclusions/header.html": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 1108,
       "exportedPath": "Transclusions/header.html",
       "dependencies": []
     },
     "Transclusions/More from The Solar Empire.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 106,
       "exportedPath": "Transclusions/More from The Solar Empire.html",
       "dependencies": []
     },
     "Transclusions/Больше Солнечной Империи.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 196,
       "exportedPath": "Transclusions/Больше Солнечной Империи.html",
       "dependencies": []
     },
     "The Solar Empire.md": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 1139,
       "exportedPath": "The Solar Empire.html",
       "dependencies": []
     },
     "index.md": {
-      "modifiedTime": 1730739358855,
-      "sourceSize": 4039,
+      "modifiedTime": 1731203716820,
+      "sourceSize": 4118,
       "exportedPath": "index.html",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1730739358855,
+      "modifiedTime": 1731203716820,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "Attachment/Pasted image 20241108214737.png": {
+      "modifiedTime": 1731203716820,
+      "sourceSize": 484194,
+      "exportedPath": "Attachment/Pasted image 20241108214737.png",
+      "dependencies": []
+    },
+    "Attachment/Pasted image 20241109175806.png": {
+      "modifiedTime": 1731203716820,
+      "sourceSize": 138798,
+      "exportedPath": "Attachment/Pasted image 20241109175806.png",
+      "dependencies": []
+    },
+    "Attachment/Pasted image 20241109175839.png": {
+      "modifiedTime": 1731203716820,
+      "sourceSize": 142642,
+      "exportedPath": "Attachment/Pasted image 20241109175839.png",
+      "dependencies": []
+    },
+    "Attachment/Pasted image 20241109175906.png": {
+      "modifiedTime": 1731203716820,
+      "sourceSize": 135980,
+      "exportedPath": "Attachment/Pasted image 20241109175906.png",
+      "dependencies": []
+    },
+    "Attachment/Pasted image 20241109175942.png": {
+      "modifiedTime": 1731203716820,
+      "sourceSize": 134578,
+      "exportedPath": "Attachment/Pasted image 20241109175942.png",
+      "dependencies": []
+    },
+    "Attachment/Pasted image 20241109180050.png": {
+      "modifiedTime": 1731203716820,
+      "sourceSize": 309648,
+      "exportedPath": "Attachment/Pasted image 20241109180050.png",
+      "dependencies": []
+    },
+    "Attachment/Pasted image 20241109203855.png": {
+      "modifiedTime": 1731203716820,
+      "sourceSize": 138668,
+      "exportedPath": "Attachment/Pasted image 20241109203855.png",
+      "dependencies": []
+    },
+    "Attachment/Pasted image 20241109222633.png": {
+      "modifiedTime": 1731203716820,
+      "sourceSize": 826022,
+      "exportedPath": "Attachment/Pasted image 20241109222633.png",
+      "dependencies": []
+    },
+    "Attachment/Pasted image 20241109222819.png": {
+      "modifiedTime": 1731203716820,
+      "sourceSize": 640796,
+      "exportedPath": "Attachment/Pasted image 20241109222819.png",
+      "dependencies": []
+    },
+    "TheBlog/Posts-ru/Как быть счастливым – руководство Мэри.md": {
+      "modifiedTime": 1731203716820,
+      "sourceSize": 38150,
+      "exportedPath": "TheBlog/Posts-ru/Как быть счастливым – руководство Мэри.html",
       "dependencies": []
     }
   }
