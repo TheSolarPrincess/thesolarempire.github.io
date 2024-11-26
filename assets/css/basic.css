@@ -1,0 +1,45 @@
+/* Basic styles for centered, width-constrained content */
+body {
+    /* Center the text and set maximum width */
+    margin: 0 auto;
+    max-width: 40em;
+    text-align: center;
+    
+    /* Light beige background */
+    background-color: #f5f5dc;
+    
+    /* Additional styles for better readability */
+    line-height: 1.6;
+    padding: 1rem;
+    font-family: system-ui, -apple-system, sans-serif;
+  }
+
+  #content {
+    text-align: left; /* Aligns text inside the div to the left */
+    margin-left: 0;   /* Removes any default left margin */
+    margin-right: auto; /* Ensures the div stays left-aligned */
+}
+  
+  /* Link styles */
+  a {
+    color: #ff8c00; /* Orange */
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  a:visited {
+    color: #d67300; /* Slightly darker orange for visited links */
+  }
+
+  blockquote {
+    padding-left: 20px;
+    border-left: 4px solid #d34f00; /* Change the color as needed */
+    margin: 20px 0;
+    font-style: italic;
+  }
+
+  #content br {display: none;}
+#content p br {display: inline;}
